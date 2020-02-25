@@ -29,7 +29,6 @@ def optimized_is_palindromic(number):
 # print(optimized_is_palindromic(x))
 
 
-result = 0
 
 result = 0
 
