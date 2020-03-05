@@ -55,5 +55,5 @@ def get_smallest_multiple(end):
     return the_number
 
 
-end = 10000
+end = 20
 print(get_smallest_multiple(end))
