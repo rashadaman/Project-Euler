@@ -50,4 +50,4 @@ def longest_collatz(the_end):
     return max(tree, key=tree.get)
 
 
-longest_collatz(1e6)
+print(longest_collatz(1e6))
